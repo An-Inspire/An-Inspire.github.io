@@ -45,15 +45,15 @@ features                                  :
 
   - title                                 : Light app clips
     description                           : Light fast showing living an-inspire.
-    fontawesome_icon_name                 : microphone-alt
+    fontawesome_icon_name                 : th-large
 
   - title                                 : Siri commands
     description                           : Very user-friendly design.Specify intent by Siri.
-    fontawesome_icon_name                 : heartbeat
+    fontawesome_icon_name                 : user-astonaut
 
   - title                                 : An Inspire
     description                           : Fantastic way to implementate live activity, follow modern swift version.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : atom
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
