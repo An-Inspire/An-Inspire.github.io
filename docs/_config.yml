@@ -37,11 +37,11 @@ features                                  :
     
   - title                                 : Techniques Trends
     description                           : Recommend techniques podcast and awesome wwdc videos.
-    fontawesome_icon_name                 : bed
+    fontawesome_icon_name                 : biohazard
 
   - title                                 : Awesome Widget
     description                           : Support different types of widgets.
-    fontawesome_icon_name                 : chart-bar
+    fontawesome_icon_name                 : code
 
   - title                                 : Light app clips
     description                           : Light fast showing living an-inspire.
@@ -49,7 +49,7 @@ features                                  :
 
   - title                                 : Siri commands
     description                           : Very user-friendly design.Specify intent by Siri.
-    fontawesome_icon_name                 : user-astonaut
+    fontawesome_icon_name                 : laptop-code
 
   - title                                 : An Inspire
     description                           : Fantastic way to implementate live activity, follow modern swift version.
